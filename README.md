@@ -1,12 +1,18 @@
-# awesome-uncertainty-deeplearning
+# Uncertianty in Deep Learning/Machine Learning 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+<!-- [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
 This repo is a collection of AWESOME papers/codes/blogs about Uncertainty and Deep learning, including papers, code, etc. Feel free to star and fork.
 
 if you think we missed a paper, please send us an email at:
- gianni.franchi at ensta-paris.fr with the following subject awesome-uncertainty-deeplearning. (tell us where it is published, and send us a GitHub link and arxiv link if they are available)
+ gianni.franchi at ensta-paris.fr with the following subject awesome-uncertainty-deeplearning. (tell us where it is published, and send us a GitHub link and arxiv link if they are available) -->
  
+
+### 01-30-2023 update 
+
+
+
+
 # Contents
 <!-- - [awesome-domain-adaptation](#awesome-domain-adaptation) -->
 - [Contents](#contents)
@@ -38,6 +44,7 @@ if you think we missed a paper, please send us an email at:
 - Ensemble deep learning: A review. [[arxiv2021]](https://arxiv.org/abs/2104.02395)
 - A survey of uncertainty in deep neural networks.[[arxiv2021]](https://arxiv.org/abs/2107.03342)
 - A Survey on Evidential Deep Learning For Single-Pass Uncertainty Estimation [[arxiv2021]](https://arxiv.org/abs/2110.03051)
+  > ICLR reject, mainly focus on 
 
 
 **Conference**
