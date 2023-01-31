@@ -9,7 +9,7 @@ if you think we missed a paper, please send us an email at:
  gianni.franchi at ensta-paris.fr with the following subject awesome-uncertainty-deeplearning. (tell us where it is published, and send us a GitHub link and arxiv link if they are available)
 
 
-# update from 01-30-2023
+### update from 01-30-2023
 
 # Contents
 
